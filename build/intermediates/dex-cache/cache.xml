@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8b9da43d1443e03cbe6ed62bb6cfaa4235cdba40">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_29071a9fd1cee30967cb9cf445d11a64f9f40f74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_4c154d782b6afafb08f1ebeac7109151be1224ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_e4a383aa566433e320780c661b154728170c49bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_8eb1df670302f45638e094f7e686fac091db4cb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8d17444199b5c69db019b44fee59fa024dabfe46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_44d9ee2eca630bb4869eb8ce375ffbed907f581d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="154f9852e064a4ab88e1e6b5c54a8219a90b27c2">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0726808a459c6fb64ef081bebb32c14e021aa9f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b7c1a0d4278ce86d0362525b794f4de749e7fbef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_747c2c398d724d3a1bdefe19694e3325614815d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_75620cb9ed60e51118037e63f9566c7986e5c0ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_439b54eda43014de776cefcdd203f5deee1b850c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2fd2ee9751da3bd06d1c8d960e0667fbde42b790/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_abdb8dd77f546b43a6ddd20df509ce8f8ae68ea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_cb0e7941cec902c91e0519bbe73e5d9f0d106417/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_312fc2581fc9367aa4bf39f5e0e5c42b1ec915b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_d04a13d7471ff22c4f56066f7a6b3d6e0d61704f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cdeb263391f3837e8f8945f529b8710d385811a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_fb3705091e8705a49d830bb8c3675dae02ca78ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_24d5852aab9727c676e8610b8af9a9dfc96c6478/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shao/git/ZhiHu/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/shao/git/ZhiHu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bf6c486cc4dbd8337a77b172beb19417b2ca4e9c/classes.dex" />
+    </item>
+
+</items>
